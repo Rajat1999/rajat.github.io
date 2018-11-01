@@ -1,0 +1,107 @@
+body {
+    /* background-image: url('https://images.unsplash.com/photo-1483450864178-e9bca6865bd8?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=155411c9841fbeca133b02c51dc4a3fb&auto=format&fit=crop&w=1050&q=80'); */
+    /* background-image: url('https://images.unsplash.com/photo-1507511262981-cda53220c19e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6e9d28a4d97ef70c31bc64dd04e6eb52&auto=format&fit=crop&w=500&q=60'); */
+    /* background-image: url('https://images.unsplash.com/photo-1519003046057-010fd722dd1a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6482fc1d0aff7562bbf08495705560f7&auto=format&fit=crop&w=1950&q=80') ; */
+    color: #000000 ;
+    background-size: cover ;
+    background-repeat: no-repeat ;
+    
+}
+
+.jumbotron {
+    /* background: #333 url('https://enterprise.google.com/maps/images/mfw_whitepaper.png') ; */
+    background-image: url('https://snazzy-maps-cdn.azureedge.net/assets/55-subtle-greyscale-map.png?v=20170626082012') ;
+    font-family: 'Anton', sans-serif;
+    color: #000000 ;
+    background-size: cover ;
+    text-align: center ;
+    font-size: 60px ;   font-weight: bold ;
+    box-shadow: 0 18px 25px 4px rgba(0,0,0,0.14), 0 20px 30px 5px rgba(0,0,0,0.12), 0 8px 10px -5px rgba(0,0,0,0.3);
+}
+
+.heading {
+    border-bottom: 3px solid black  ;
+}
+
+/* h3 {
+    border-bottom: 2px solid black ;
+} */
+
+.img1 {
+    width: 100% ;
+    height: 100% ;
+}
+
+.img2 {
+    width: 100% ;
+    height: 100% ;
+}
+
+.img3 {
+    width: 100% ;
+    height: 100% ;
+}
+
+.link1 {
+    font-size: 20px ;
+}
+
+.end-btn {
+    text-align: center ;
+    padding-top: 5px ;
+    padding-bottom: 5px ;
+}
+
+.forward {
+    margin: 10px ;
+}
+
+.main-footer {
+    background: #c2c6ff ;
+    padding-bottom: 5px ;
+    box-shadow: 10px -5px 9px 20px rgba(0,0,0,0.14), 10px 5px 9px 20px rgba(0,0,0,0.12), 15px 15px 9px 20px rgba(0,0,0,0.3) ;
+}
+
+.copy {
+    text-align: center ;
+    /* color: #804000 ; */
+}
+
+.accordion {
+    text-align: center ;
+    color: #2699FB ;
+}
+
+.info {
+    font-family: 'Rosario', sans-serif;
+}
+
+/* .box1 {
+    margin-right: 2px ;
+} */
+
+/* .box2 {
+    margin-right:  ;
+} */
+
+/* .box3 {
+    margin: 5px 5px 5px 5px ;
+} */
+
+/* .imagebg {
+    background-image: url("https://enterprise.google.com/maps/images/mfw_whitepaper.png");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0; */
+	
+  /* filter: blur(2px); */
+  /* opacity: 0.6; */
+  /* filter: alpha(opacity=40); */
+}
+

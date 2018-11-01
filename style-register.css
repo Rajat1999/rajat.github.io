@@ -1,0 +1,33 @@
+.jumbotron {
+    background: #333 url('https://snazzy-maps-cdn.azureedge.net/assets/55-subtle-greyscale-map.png?v=20170626082012') ;
+    font-family: 'Anton', sans-serif;
+    color: #000000 ;
+    background-size: cover ;
+    text-align: center ;
+    font-size: 60px ;   font-weight: bold ;
+}
+
+.heading {
+    border-bottom: 3px solid black  ;
+}
+
+.well {
+    margin-top: 40px ;
+}
+
+.main-footer {
+    background: #c2c6ff ;
+    margin-top: 2% ;
+    margin-bottom: 0% ;
+    padding: 2% ;
+}
+
+.end-btn {
+    text-align: center ;
+    padding-top: 20px ;
+    padding-bottom: 50px ;
+}
+
+.copy {
+    text-align: center ;
+}

@@ -46,6 +46,19 @@ body {
     font-size: 20px ;
 }
 
+.section-a {
+    background: #ededed ;
+    color: #000000 ;
+    text-align: center ;
+    padding: 50px ;
+    margin-bottom: 30px ; 
+    margin-top: 30px ; 
+}
+
+.section-a h1 {
+    font-size: 50px ;
+}
+
 .end-btn {
     text-align: center ;
     padding-top: 5px ;
